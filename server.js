@@ -7,7 +7,5 @@ app.get("/", function (req, res, next) {
   res.sendFile(path.join(__dirname,'www/index.html'));
   
 });
-app.get("*", function (req, res, next) {
-  res.redirect("/");
-});
+
 app.listen(4000);
