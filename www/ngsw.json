@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1625716359722,
+  "timestamp": 1625721463885,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -78,21 +78,15 @@
         "/common.d7212a14bee892172f1b.js",
         "/index.html",
         "/main.23f773f1d86963284c29.js",
-        "/main.4f74ae0de5b2d27283cd.js",
-        "/main.a0eeba2d0d8fa7aaf2bd.js",
-        "/main.ae9ec93d363ccd2642dd.js",
         "/manifest.webmanifest",
-        "/ngsw-worker.js",
         "/polyfills-core-js.a7ddb7cb7d8b8e90f5f8.js",
         "/polyfills-css-shim.b4486a0f2677f52a826c.js",
         "/polyfills-dom.bb001086d79da53c554e.js",
         "/polyfills.fe3427aa842688eefc50.js",
         "/runtime.b6344e6096815b1aa50d.js",
-        "/safety-worker.js",
         "/stencil-polyfills-css-shim.0db5e0610d688dd893d5.js",
         "/stencil-polyfills-dom.9549b34e5aeb65ff24f8.js",
-        "/styles.b006e1fc2f08c8e24198.css",
-        "/worker-basic.min.js"
+        "/styles.b006e1fc2f08c8e24198.css"
       ],
       "patterns": []
     },
@@ -224,21 +218,15 @@
     "/data-table.93be7e0fc94594d266a2.ttf": "5c23a1ceb1b1d37844a864c02cd97b145e6243dd",
     "/index.html": "da23636aa155a5bb77dbfc6663942d0e792ff84d",
     "/main.23f773f1d86963284c29.js": "bfb08d2dce35c623116b271d412cf87372dd4f4a",
-    "/main.4f74ae0de5b2d27283cd.js": "11587446cea367094d4e8a08efae7c09a761e31d",
-    "/main.a0eeba2d0d8fa7aaf2bd.js": "9a2e2eb58f32bd18a07d0fb29bc7e53918abd78b",
-    "/main.ae9ec93d363ccd2642dd.js": "977cc51a54bafb5fde446e7b480641f4c0903f60",
     "/manifest.webmanifest": "d65a85e954a424ce8d4063029fe4e681b97493a4",
-    "/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
     "/polyfills-core-js.a7ddb7cb7d8b8e90f5f8.js": "965db499d792c54f52be829ea5979beffbe548b2",
     "/polyfills-css-shim.b4486a0f2677f52a826c.js": "61bfcd9a0167f0d5d93b102b2fa41bf5c0cc0031",
     "/polyfills-dom.bb001086d79da53c554e.js": "2c24492f800d208862ed28e0b0e781bc649f13f5",
     "/polyfills.fe3427aa842688eefc50.js": "5802e2fec7747ade2e0d42c9c1b3148ca932c1fa",
     "/runtime.b6344e6096815b1aa50d.js": "69aa0cd11ae1e0e88b1e8359710dcb3ee317cb85",
-    "/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
     "/stencil-polyfills-css-shim.0db5e0610d688dd893d5.js": "69d22b6deaaa8fb9379dc919a167efa5dffdba1d",
     "/stencil-polyfills-dom.9549b34e5aeb65ff24f8.js": "92ddd429447191903bee2cc68951f4e79b04b499",
-    "/styles.b006e1fc2f08c8e24198.css": "ff0c517662dcbd08e67922c51f1ae4097ffeccea",
-    "/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
+    "/styles.b006e1fc2f08c8e24198.css": "ff0c517662dcbd08e67922c51f1ae4097ffeccea"
   },
   "navigationUrls": [
     {
