@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1625704915169,
+  "timestamp": 1625716359722,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -124,7 +124,22 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "data-api",
+      "patterns": [
+        "https:\\/\\/www\\.precision-wall\\.ml\\/api\\/ticket\\/list-activitis"
+      ],
+      "strategy": "freshness",
+      "maxSize": 5,
+      "maxAge": 3000000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/13.250a8e8b22a7bb8cf65e.js": "d3fe36f68a878572bec95752166839d5dc6aaaee",
     "/14.f1da078cff0d4a9cc203.js": "1ca5f509d436cdc8ba88613af9fcbea0f4e81ceb",
@@ -212,7 +227,7 @@
     "/main.4f74ae0de5b2d27283cd.js": "11587446cea367094d4e8a08efae7c09a761e31d",
     "/main.a0eeba2d0d8fa7aaf2bd.js": "9a2e2eb58f32bd18a07d0fb29bc7e53918abd78b",
     "/main.ae9ec93d363ccd2642dd.js": "977cc51a54bafb5fde446e7b480641f4c0903f60",
-    "/manifest.webmanifest": "3c3a58121fa5be09f88ca7f2b50535aa69e2c076",
+    "/manifest.webmanifest": "d65a85e954a424ce8d4063029fe4e681b97493a4",
     "/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
     "/polyfills-core-js.a7ddb7cb7d8b8e90f5f8.js": "965db499d792c54f52be829ea5979beffbe548b2",
     "/polyfills-css-shim.b4486a0f2677f52a826c.js": "61bfcd9a0167f0d5d93b102b2fa41bf5c0cc0031",
