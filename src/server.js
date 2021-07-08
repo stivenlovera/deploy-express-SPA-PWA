@@ -1,8 +1,10 @@
 var express = require("express");
 var app = express();
+app.set('etag', false)
 app.use(express.static("./www/")); //dist/front-update
 app.get("/", function (req, res, next) {
   res.redirect("/");
+  
 });
 app.get("*", function (req, res, next) {
   res.redirect("/");
