@@ -11,3 +11,4 @@ app.get("*", function (req, res, next) {
   res.redirect("/");
 });
 app.listen(4000);
+console.log("start")
