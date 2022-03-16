@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1647387208745,
+  "timestamp": 1647402283946,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -78,7 +78,7 @@
         "/74.3886b86e81c14a936e5d.js",
         "/common.d7212a14bee892172f1b.js",
         "/index.html",
-        "/main.f3569d00cced74360f8a.js",
+        "/main.1d01a8e48a3cb9807de7.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.34a7a4f3eef21f09975c.js",
         "/polyfills-css-shim.0ca88c17088e82eeb803.js",
@@ -87,7 +87,7 @@
         "/runtime.6eda6b7c2e395b70289d.js",
         "/stencil-polyfills-css-shim.0e83c08239b1fec39dcc.js",
         "/stencil-polyfills-dom.378742a94c6319174b49.js",
-        "/styles.7efcc825ab10572eddd5.css"
+        "/styles.253449dbbcf4e30c1b01.css"
       ],
       "patterns": []
     },
@@ -1463,7 +1463,7 @@
         "https:\\/\\/www\\.precision-wall\\.ml\\/api\\/ticket\\/list-activitis"
       ],
       "strategy": "freshness",
-      "maxSize": 5,
+      "maxSize": 15,
       "maxAge": 3000000,
       "timeoutMs": 5000,
       "cacheQueryOptions": {
@@ -1560,9 +1560,9 @@
     "/data-table.53c319729491b7686d65.woff": "d4582b40484b4ee1fd334a5577fd945e804484f9",
     "/data-table.7eda0c04830dac128c76.svg": "f1880710c0888c2cbc32311ca20bc3950e38e274",
     "/data-table.93be7e0fc94594d266a2.ttf": "5c23a1ceb1b1d37844a864c02cd97b145e6243dd",
-    "/index.html": "fd63fdbcd6913b7cec15d970e6586360520705a4",
-    "/main.f3569d00cced74360f8a.js": "09abbcd2ba417a013c69d1ed909e4cfb9550c6eb",
-    "/manifest.webmanifest": "23cac281ff6e8a016f601b5d7019023d2f1f5c59",
+    "/index.html": "a9990d521aa82a8c9d9ea5eec053580384c5e308",
+    "/main.1d01a8e48a3cb9807de7.js": "557fa73884e94f23d4933d591315693057aa88eb",
+    "/manifest.webmanifest": "95e97113a69d441235095deaa11c580a3cf8fa74",
     "/polyfills-core-js.34a7a4f3eef21f09975c.js": "3d74d90a65b32ec6ecf12af7fca30e49ab4bee0b",
     "/polyfills-css-shim.0ca88c17088e82eeb803.js": "6ba07494767f2843cf24e381db6868b0b890d1af",
     "/polyfills-dom.229f6ccdfd09cbe5701c.js": "3455849cad83b87b1a14b708e9b057e7d60ca34e",
@@ -1570,7 +1570,7 @@
     "/runtime.6eda6b7c2e395b70289d.js": "cee921cfac952e8d8c4888ce486aa50ce1ef111a",
     "/stencil-polyfills-css-shim.0e83c08239b1fec39dcc.js": "683b65d453f31b3f0890269cd4dd94f39df9fe94",
     "/stencil-polyfills-dom.378742a94c6319174b49.js": "427524dff896222f6ae93cb508a5a0dc9748046f",
-    "/styles.7efcc825ab10572eddd5.css": "864716ffbfc094a40ba320897ced4de5d032f3f5",
+    "/styles.253449dbbcf4e30c1b01.css": "454f3eb15daf5db0beeb510c4bc00357aa0b1226",
     "/svg/accessibility-outline.svg": "a86512025bf585bbc43985989cead7b923dee9d2",
     "/svg/accessibility-sharp.svg": "06433dd0ca25247d3ccbecc7c33d2669cd159df0",
     "/svg/accessibility.svg": "fda70bb649bb9ac3bfada73cc0223fd68f79837e",
